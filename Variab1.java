@@ -5,6 +5,7 @@ class Variab {
 	public static void main (String[] args) {
 		
 		double a = 3;
+		int b - 2; 
 		int b = 4;
 		int c;
 		
